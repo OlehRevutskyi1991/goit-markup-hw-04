@@ -238,6 +238,17 @@ a {
   color: #2e2f42;
 }
 
+.solution-icon {
+  display: flex;
+  align-items: center;
+  align-items: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
+}
+
 .solution-text {
   font-weight: 400;
   font-size: 16px;
