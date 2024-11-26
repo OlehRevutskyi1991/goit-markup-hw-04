@@ -238,10 +238,10 @@ a {
   color: #2e2f42;
 }
 
-.solution-icon {
+.solution-icons {
   display: flex;
   align-items: center;
-  align-items: center;
+  justify-content: center;
   height: 112px;
   background-color: #f4f4fd;
   border-radius: 4px;
