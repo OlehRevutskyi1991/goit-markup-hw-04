@@ -486,3 +486,7 @@ a {
 .footer-social-items {
   transition: color 250ms cubic-bezier(0.4, 0, 0, 2, 1);
 }
+
+.footer-discription {
+  margin-right: 120px;
+}
